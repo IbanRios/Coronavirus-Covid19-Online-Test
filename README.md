@@ -11,6 +11,11 @@ Pasos a seguir si quieres adaptarlo a tu país:
 
 3. Finalmente, adapta el contenido y/o el código para alinearte satisfactoriamente con las recomendaciones oficiales del país donde habites.
 
+Librarías/Frameworks usados:
+- Bootstrap
+- JQuery
+- FontAwesome
+
 <p align="center">
 <img src="image-readme.png" alt="Imágen YoMeTesteoEnCasa" width="300" height="auto"/>
 </p>
