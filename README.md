@@ -11,4 +11,4 @@ Pasos a seguir:
 
 3. Finalmente, adapta el contenido y/o el contenido para alinearte satisfactoriamente con las recomendaciones oficiales del país donde habites.
 
-<img src="Screenshot.png" alt="Screenshot" style="width: 100%;"/>
+<img src="image-readme.png" alt="Imágen YoMeTesteoEnCasa" style="width: 100%;"/>
