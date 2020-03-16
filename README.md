@@ -3,7 +3,7 @@
 
 Éste es el código fuente base de https://yometesteoencasa.com
 
-Pasos a seguir:
+Pasos a seguir si quieres adaptarlo a tu país:
 
 1. Copia el archivo index.html así como la carpea CSS en la raíz (root) de tu servidor.
 
