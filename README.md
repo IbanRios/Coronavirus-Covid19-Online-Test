@@ -11,6 +11,8 @@ Pasos a seguir si quieres adaptarlo a tu país:
 
 3. Finalmente, adapta el contenido y/o el código para alinearte satisfactoriamente con las recomendaciones oficiales del país donde habites.
 
+
+
 Librarías/Frameworks usados:
 - Bootstrap
 - JQuery
