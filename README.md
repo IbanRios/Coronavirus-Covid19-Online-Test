@@ -13,7 +13,7 @@ Pasos a seguir si quieres adaptarlo a tu país:
 
 
 
-Librerías/Frameworks usados:
+Librerías/frameworks usados:
 - Bootstrap
 - JQuery
 - FontAwesome
