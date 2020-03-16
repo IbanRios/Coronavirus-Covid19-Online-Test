@@ -9,7 +9,7 @@ Pasos a seguir si quieres adaptarlo a tu país:
 
 2. Una vez realizado el paso anterior, comprueba que tienes la misma experiencia que la que puedes encontrar en esta página de prueba: https://yometesteoencasa.com/github/
 
-3. Finalmente, adapta el contenido y/o el contenido para alinearte satisfactoriamente con las recomendaciones oficiales del país donde habites.
+3. Finalmente, adapta el contenido y/o el código para alinearte satisfactoriamente con las recomendaciones oficiales del país donde habites.
 
 <p align="center">
 <img src="image-readme.png" alt="Imágen YoMeTesteoEnCasa" width="300" height="auto"/>
