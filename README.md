@@ -1,7 +1,4 @@
 # Coronavirus Online Test
-Languages - Idiomas 
-- English
-- Español
 
 
 ## IN ENGLISH: Instructions to adapt the Coronavirus Online Test
