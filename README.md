@@ -6,7 +6,7 @@
 
 
 
-## IN ENGLISH: Instructions to adapt the Coronavirus Online Test
+## IN ENGLISH: Instructions to adapt this online test
 
 Find here the base source code of https://yometesteoencasa.com
 
@@ -28,7 +28,7 @@ Frameworks/libraries used:
 
 
 
-## EN ESPAÑOL: Instructions para adaptar el Test Online del Coronavirus
+## EN ESPAÑOL: Instructions para adaptar este test online
 
 Encuentra aquí el código fuente base de https://yometesteoencasa.com
 
