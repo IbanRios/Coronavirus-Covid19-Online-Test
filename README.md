@@ -1,4 +1,4 @@
-# Coronavirus Online Test
+# Coronavirus Covid-19 Online Test
 
 
 ## IN ENGLISH: Instructions to adapt the Coronavirus Online Test
