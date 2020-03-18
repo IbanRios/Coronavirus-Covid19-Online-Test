@@ -28,7 +28,7 @@ Frameworks/libraries used:
 
 
 
-## EN ESPAÑOL: Instructiones para adaptar este test online
+## EN ESPAÑOL: Instrucciones para adaptar este test online
 
 Encuentra aquí el código fuente base de https://yometesteoencasa.com
 
