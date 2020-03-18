@@ -1,7 +1,7 @@
 # Coronavirus Online Test
-- Instructions available in both English and Spanish
-- Instrucciones disponibles tanto en Español como en Inglés
-
+Languages - Idiomas 
+- English
+- Español
 
 
 ## IN ENGLISH: Instructions to adapt the Coronavirus Online Test
