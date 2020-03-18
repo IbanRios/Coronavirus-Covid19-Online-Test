@@ -1,5 +1,10 @@
 # Coronavirus Covid-19 Online Test
 
+<p align="center">
+<img src="image-readme.png" alt="Imágen YoMeTesteoEnCasa" width="300" height="auto"/>
+</p>
+
+
 
 ## IN ENGLISH: Instructions to adapt the Coronavirus Online Test
 
@@ -41,9 +46,3 @@ Librerías/frameworks usados:
 - Bootstrap
 - JQuery
 - FontAwesome
-
-
-
-<p align="center">
-<img src="image-readme.png" alt="Imágen YoMeTesteoEnCasa" width="300" height="auto"/>
-</p>
