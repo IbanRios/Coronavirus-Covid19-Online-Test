@@ -10,11 +10,11 @@ Find here the base source code of https://yometesteoencasa.com
 
 Steps to follow if you want to adapt it to your country:
 
-1. Copy the index.html file as well as the CSS css to server's root.
+1. Copy the index.html file as well as the CSS css to the root of the server.
 
-2. Check that your new hosted webapp has the same experience as the one you can find in this test page: https://yometesteoencasa.com/github/
+2. Check that your new hosted webapp has the same experience as the one you can find on this test page: https://yometesteoencasa.com/github/
 
-3. Finally, ammend the contend and/or the code to be aligned with your country's recommendations.
+3. Finally, ammend the contend and/or the code to align with the official recommendations in you country.
 
 
 ---
