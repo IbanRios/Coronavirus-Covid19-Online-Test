@@ -2,12 +2,9 @@
 - Instructions available in both English and Spanish
 - Instrucciones disponibles tanto en Español como en Inglés
 
----
----
----
 
 
-## ENGLISH: Instructions to adapt the Coronavirus Online Test
+## IN ENGLISH: Instructions to adapt the Coronavirus Online Test
 
 Find here the base source code of https://yometesteoencasa.com
 
@@ -27,11 +24,9 @@ Frameworks/libraries used:
 - JQuery
 - FontAwesome
 
----
----
----
 
-## ESPAÑOL: Instructions para adaptar el Test Online del Coronavirus
+
+## EN ESPAÑOL: Instructions para adaptar el Test Online del Coronavirus
 
 Encuentra aquí el código fuente base de https://yometesteoencasa.com
 
@@ -49,6 +44,8 @@ Librerías/frameworks usados:
 - Bootstrap
 - JQuery
 - FontAwesome
+
+
 
 <p align="center">
 <img src="image-readme.png" alt="Imágen YoMeTesteoEnCasa" width="300" height="auto"/>
